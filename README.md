@@ -2,7 +2,7 @@
 
 ### A Progressive Web App (PWA) is a type of web application that uses modern web technologies to provide a native app-like experience to users. PWAs are built using HTML, CSS, and JavaScript and are designed to work across all devices and platforms, including desktop, mobile, and tablet.
 
-### The key features of PWAs include:
+#### The key features of PWAs include:
 
 - Responsive: The app should be able to adapt to different screen sizes and resolutions, whether the user is using a desktop, mobile or tablet.
 
@@ -14,7 +14,7 @@
 
 - Installable: Users can add PWAs to their home screen, providing quick and easy access to the app.
 
-### PWAs are built using a set of core technologies, including:
+#### PWAs are built using a set of core technologies, including:
 
 - HTML, CSS, and JavaScript: The basic building blocks of web development.
 
